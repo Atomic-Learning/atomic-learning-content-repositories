@@ -9,9 +9,10 @@
     ],
     "duration": 2,
     "prerequisites": [
+        "atomic-learning-introduction",
         "html-introduction",
         "json-introduction",
-        "atomic-learning-introduction"
+        "github-repositories"
     ],
     "related": [
         "atomic-learning-metadata-file"
