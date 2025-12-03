@@ -1,21 +1,19 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning: Content Repositories",
+    "slug": "atomic-learning-content-repositories",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "html-introduction",
+        "json-introduction",
+        "atomic-learning-introduction"
     ],
     "related": [
-        "",
-        ""
+        "atomic-learning-metadata-file"
     ]
 }
