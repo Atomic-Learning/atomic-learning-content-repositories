@@ -1,6 +1,7 @@
 {
     "title": "Atomic Learning: Content Repositories",
     "slug": "atomic-learning-content-repositories",
+    "description": "A description of the overall structure of content repositories in the Atomic Learning platform.",
     "authors": [
         "chris-cooling"
     ],
