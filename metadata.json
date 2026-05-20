@@ -17,6 +17,7 @@
     ],
     "related": [
         "atomic-learning-metadata-file",
-        "markdown-introduction"
+        "markdown-introduction",
+        "git-gitkeep"
     ]
 }
